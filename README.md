@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @naitik0009
 - 👀 I’m interested in Tech
 - 🌱 I’m currently learning Mern Stack
-- 💞️ I’m looking to collaborate on a e-commerce project
+- 💞️ I’m looking to collaborate on an e-commerce project
 - 📫 How to reach me on insta :  naitik_rauniyar
 
 <!---
